@@ -1,0 +1,20 @@
+body {
+    background-image: url(../imagenes/blackmamba.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center top;
+}
+
+nav img {
+    width: 10%;
+}
+
+.bebasNeue {
+    font-family: 'Bebas Neue', cursive;
+}
+
+footer img {
+    width: 7%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300&display=swap');
